@@ -1,0 +1,13 @@
+body{
+    background-color: powderblue;
+}
+
+p.reuna{
+    color: black; width: solid 2px; 
+}
+h1.reuna{
+    color: black; width: solid 2px;
+}
+div.reuna{
+    border: 2px solid black;
+}
