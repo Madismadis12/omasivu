@@ -1,0 +1,23 @@
+body {
+background-color: powderblue;
+}
+
+h1{
+color: red;
+}
+
+p.reuna {
+    color: rgb(0, 0, 0);
+}
+
+.musta{
+    color: black;
+}
+
+#punainen{
+    color: brown;
+}
+
+div.reuna{
+    border: 2px solid black;
+}
